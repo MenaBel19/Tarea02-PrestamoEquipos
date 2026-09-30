@@ -8,6 +8,6 @@ package com.mycompany.tarea2sistemaprestamos;
  *
  * @author jimes
  */
-public class Menú {
+public class Menu {
     
 }
